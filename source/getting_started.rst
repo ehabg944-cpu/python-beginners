@@ -1,4 +1,4 @@
-Getting started
+pip install google-antigravityGetting started
 ***************
 
 What you'll need
